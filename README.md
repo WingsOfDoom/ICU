@@ -4,4 +4,4 @@ quick 'n dirty poc based on PoC windows auth prompt in c# based on https://gist.
 inspiration comes from https://ired.team/offensive-security/credential-access-and-credential-dumping/credentials-collection-via-creduipromptforcredentials
 
 Will continue to bug the user to input credentials until they are valid, or until they press cancel. 
-written in c#, so could potentially be used by execute-assembly, have not tested it out yet.
+written in c#, so could potentially be used by execute-assembly.
