@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICU", "ICU.csproj", "{7132B256-0209-4807-BCF1-71ADB10E8A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7132B256-0209-4807-BCF1-71ADB10E8A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7132B256-0209-4807-BCF1-71ADB10E8A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7132B256-0209-4807-BCF1-71ADB10E8A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7132B256-0209-4807-BCF1-71ADB10E8A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38084228-DA5D-4AF9-9E87-69F3AC845A8B}
+	EndGlobalSection
+EndGlobal

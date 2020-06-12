@@ -1,0 +1,5 @@
+C:\Users\Jean\source\repos\ICU\obj\Debug\ICU.csprojAssemblyReference.cache
+C:\Users\Jean\source\repos\ICU\bin\Debug\ICU.exe
+C:\Users\Jean\source\repos\ICU\bin\Debug\ICU.pdb
+C:\Users\Jean\source\repos\ICU\obj\Debug\ICU.exe
+C:\Users\Jean\source\repos\ICU\obj\Debug\ICU.pdb
